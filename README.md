@@ -2,7 +2,7 @@
 # 🚗 Uber Ride Booking Analysis Dashboard
 
 <p align="center">
-  <img src="Images/uber-dashboard-preview.png" alt="Uber Ride Booking Analysis Dashboard" width="100%">
+  <img src="Images/Screenshot 2026-10-07 224811.png" alt="Uber Ride Booking Analysis Dashboard" width="100%">
 </p>
 
 <p align="center">
@@ -185,7 +185,7 @@ The dashboard reports an average customer rating of **4.40** and an average driv
 ### Main Dashboard
 
 <p align="center">
-  <img src="Images/uber-dashboard-preview.png" alt="Full Uber Power BI dashboard" width="98%">
+  <img src="Images/Screenshot 2026-10-07 224811.png" alt="Full Uber Power BI dashboard" width="98%">
 </p>
 
 ### Dashboard Layout
@@ -304,9 +304,9 @@ For the current portfolio version, this repository provides:
 ### Optional GitHub Pages Version
 
 If you later create an `index.html` dashboard/project showcase, add the link here:
-
+```
 **[🚀 Open Live Project Website](https://YOUR-USERNAME.github.io/uber-ride-booking-analysis/)**
-
+```
 ---
 
 ## 📈 Skills Demonstrated
@@ -346,7 +346,7 @@ I enjoy combining **design, data and product thinking** to create clear, useful 
 
 🐙 **GitHub:** [Explore My Projects](https://github.com/kishanpatel486630)
 
-💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/)
+💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/kishan-parvadiya-593120268/)
 
 ---
 
